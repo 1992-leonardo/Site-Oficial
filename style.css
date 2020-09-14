@@ -1,0 +1,25 @@
+.banner {
+    width: 700px;
+    height: 400px;
+    margin: 0 auto;
+    animation: slide 10s infinite;
+    
+}
+
+@keyframes slide {
+    0%, 30% { 
+        background-image: url("img/marketing-digital.png");
+
+  }
+
+
+    35%, 65% {
+        background-image: url("img/digital.webp");
+
+    }
+
+    70%, 100% {
+        background-image: url("img/divulga.jpg");
+
+    }
+}
