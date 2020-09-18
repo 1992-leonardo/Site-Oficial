@@ -14,12 +14,12 @@
 
 
     35%, 65% {
-        background-image: url("img/digital.webp");
+        background-image: url("img/imagem-interativo.png");
 
     }
 
     70%, 100% {
-        background-image: url("img/divulga.jpg");
+        background-image: url("img/imagem-interativa2.jpg");
 
     }
 }
